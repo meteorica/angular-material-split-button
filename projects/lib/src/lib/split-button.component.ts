@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'met-lib',
+  selector: 'met-split-button',
   template: `
     <p>
       lib works!
@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
-export class LibComponent implements OnInit {
+export class SplitButtonComponent implements OnInit {
 
   constructor() { }
 
